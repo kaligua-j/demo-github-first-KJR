@@ -1,5 +1,5 @@
 # demo-github-first-KJR
 STAT545 Demo
 
-Kaligua Rochon 
+Kaligua Rochon
 MSc Applied Animal Biology
